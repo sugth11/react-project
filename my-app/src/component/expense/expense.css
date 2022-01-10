@@ -5,6 +5,10 @@
   width: 50rem;
   max-width: 95%;
 }
+.colur {
+  color: #ffffff;
+  font-weight: 900;
+}
 h1 {
   color: #fff;
 }
